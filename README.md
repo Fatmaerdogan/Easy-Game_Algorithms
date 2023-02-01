@@ -10,3 +10,9 @@ EN=>This code increases the similarity of the colors produced each time the Spac
 TR=>Sadece editörde gizmolarla çalışılan bir sistem.Scriptin atıldığı objenin etrafında random yerlerde dairesel şekilde sphereler çizdiriyor.Bir parametre değiştiği an da randomluk güncelleniyor.Oluşacak daire sayısını,oluşan dairelelerin radisunu,kullanılabilir alanın radius değişkendir.Boolun açık olduğu durumda her sphereden kendisi hariç diğer bütün spherelere kendi renginde line çizebiliyor.
 
 EN=>A system that works only with gizmos in the editor. It draws spheres in a circular manner in random places around the object where the script is thrown. The moment a parameter changes, the randomness is updated. The number of circles to be formed, the radius of the circles formed, the radius of the usable area are variable. He can draw lines in his own color.
+
+#Pixel Object Creat
+
+TR=>Scripte herhangi bir 3D obje verilebilir. Bu obje kullanılarak pixel textureda yer alan resmi oluşturur.
+
+EN=>Any 3D object can be given to the script. Using this object, it creates the picture in the pixel texture.
