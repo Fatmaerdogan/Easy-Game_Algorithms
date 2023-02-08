@@ -16,3 +16,9 @@ EN=>A system that works only with gizmos in the editor. It draws spheres in a ci
 TR=>Scripte herhangi bir 3D obje verilebilir. Bu obje kullanılarak pixel textureda yer alan resmi oluşturur.
 
 EN=>Any 3D object can be given to the script. Using this object, it creates the picture in the pixel texture.
+
+# Cube Roll
+
+TR=>A,S,D,W tuşlarını kullanarak küpü zeminden dönerek ilerletiliyor.
+
+EN=>Using the A, S, D, W keys, the cube is advanced by rotating from the ground.
