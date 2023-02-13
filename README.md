@@ -22,3 +22,9 @@ EN=>Any 3D object can be given to the script. Using this object, it creates the 
 TR=>A,S,D,W tuşlarını kullanarak küpü zeminden dönerek ilerletiliyor.
 
 EN=>Using the A, S, D, W keys, the cube is advanced by rotating from the ground.
+
+# Cube Rotat
+
+TR=>Dokunduğun noktadan parmağını hareket ettirdiğin noktaya doğru kupün dönmesini sağlar.
+
+EN=>Allows the cube to rotate from the point you touch to the point where you move your finger.
