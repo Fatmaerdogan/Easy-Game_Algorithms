@@ -28,3 +28,9 @@ EN=>Using the A, S, D, W keys, the cube is advanced by rotating from the ground.
 TR=>Dokunduğun noktadan parmağını hareket ettirdiğin noktaya doğru kupün dönmesini sağlar.
 
 EN=>Allows the cube to rotate from the point you touch to the point where you move your finger.
+
+# Security Camera
+
+TR=>Oyun içi ekranlar (CCTV, güvenlik kamerası) birliğe nasıl eklenir? Bunun için renderer texture kullanılır. Renderer texture kameramıza eklediğimizda kameranın gördüğü bu texture çizilir. Bu texture bir material atayıp, obje üstünde gösterebiliriz.
+
+EN=>How to add in-game screens (CCTV, security camera) to unity? For this, renderer texture is used. When we add the renderer texture to our camera, this texture that the camera sees is drawn. We can assign this texture a material and display it on the object.
